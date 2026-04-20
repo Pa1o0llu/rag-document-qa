@@ -26,4 +26,4 @@ This project is a Retrieval-Augmented Generation (RAG) system that allows users 
 3. Run the app:
    streamlit run app.py
 
-   demo video link-https://github.com/Pa1o0llu/rag-document-qa
+   demo video link-https://drive.google.com/file/d/1l3BiinO497N05rTH6HnnCPVk3CS596PY/view
