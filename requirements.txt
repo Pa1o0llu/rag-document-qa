@@ -1,0 +1,11 @@
+streamlit>=1.30
+langchain>=0.2
+langchain-community>=0.2
+langchain-huggingface
+langchain-groq
+chromadb
+pypdf
+python-dotenv
+transformers
+sentence-transformers
+
